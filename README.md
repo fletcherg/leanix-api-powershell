@@ -1,6 +1,6 @@
 # leanix-api-powershell
 
-Very rough and basic Powershell to interact with LeanIX API
+Very rough and basic Powershell to interact with LeanIX API 🙈
 
 # Getting Started
 
@@ -21,4 +21,4 @@ Get-LXInitiatives
 
 # Updates
 
-PRs welcome 
+PRs welcome 😊🙏😍
