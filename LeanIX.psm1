@@ -188,22 +188,6 @@ query retrieveFactSheetsByType(`$filter: FilterInput!) {
         ... on Initiative {
           fullName
           name
-          ariBenefitsAnticipated
-          ariInitiativeDescription
-          ariName
-          ariObjective
-          ariPriority
-          ariProblemStatement
-          ariScheduledFinish
-          ariScheduledStart
-          ariStage
-          ariStatus
-          ariStrategyBusiness
-          ariStrategyFinancial
-          ariTotalCost
-          ariTotalCostCAPEX
-          ariTotalCostOPEX
-          ariWorkParent
           lifecycle {
             phases {
               milestoneId
